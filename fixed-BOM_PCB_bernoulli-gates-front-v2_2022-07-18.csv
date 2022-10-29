@@ -1,0 +1,13 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,3DModel,LCSC Assembly,Contributor,SMT Type,image,link
+1,BC847,"Q1, Q2, Q3, Q4",SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR,4,2n3904S-RTK/PS,KEC,LCSC,C18536,0.012,3,SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95,Yes,lcsc,Extend,//image.lceda.cn/szlcsc/C18536.jpg,https://item.szlcsc.com/70837.html
+2,100K,"R11, R13, R18, R20",R0805,4,,,,,,2,R0805_L2.0-W1.3-H0.6,,DangerousPrototype,,,https://item.szlcsc.com/142685.html
+3,6.8k,"R15, R17, R22, R24",R0805,4,,,,,,2,R0805_L2.0-W1.3-H0.6,,DangerousPrototype,,,https://item.szlcsc.com/142685.html
+4,0.1uF,C23,C0805,1,,,,,,2,C0805_L2.0-W1.3-H1.3,,LCEDA_Lib,,,https://item.szlcsc.com/373011.html
+5,CD4081BM,U11,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,CD4081BM,Texas Instruments,LCSC,C353985,0.631,14,SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27,Yes,LCSC,Extend,,https://item.szlcsc.com/7253.html
+6,X4611WV-05I-C28D40,"H1, H3",HDR-TH_5P-P2.00-V-M,2,X4611WV-05I-C28D40,XKB Connectivity,LCSC,C706994,0.084,5,HDR-TH_5P-P2.00-M-LI-1X5P,,LCSC,,,https://atta.szlcsc.com/upload/public/pdf/source/20200518/C541858_7610F54454E936EFCDE06B655DF7C837.pdf
+7,X4611WV-04I-C28D40,"H2, H4",HDR-TH_4P-P2.00-V-M,2,X4611WV-04I-C28D40,XKB Connectivity,LCSC,C706995,0.059,4,HDR-TH_4P-P2.00-M-LI-1X4P,,LCSC,,,https://item.szlcsc.com/562479.html
+8,1k,"R1, R2, R3, R4",R0805,4,,,,,,2,R0805_L2.0-W1.3-H0.6,,DangerousPrototype,,,https://item.szlcsc.com/142685.html
+9,B100K,"CV-1-POT, CV-2-POT, CV-3-POT, CV-4-POT",9MM_SNAP-IN_POT_3,4,,,,,,5,,,rossgrady,,,
+10,THONKICONNNEW,"CLOCK, NOISE, BIT1, BIT2, BIT3, BIT4",THONKICONN-TIGHT,6,,,,,,3,,,rossgrady,,,
+11,LED-3MM-RED,"LED1, LED2, LED3, LED4",LED3MM-STOVEPIPE,4,LED-3MM-RED,,,,,2,,,hctan22,,,
+12,HDR-M-2.54_1x3,J1,HDR-M-2.54_1X3,1,,,LCSC,C180248,0.163,3,HDR-M-2.54_1x3,,LCEDA_Lib,,,
